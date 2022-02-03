@@ -25,3 +25,6 @@ D:\GitRepo\VSCode\BlazorApp\obj\Debug\net6.0\BlazorApp.dll
 D:\GitRepo\VSCode\BlazorApp\obj\Debug\net6.0\ref\BlazorApp.dll
 D:\GitRepo\VSCode\BlazorApp\obj\Debug\net6.0\BlazorApp.pdb
 D:\GitRepo\VSCode\BlazorApp\obj\Debug\net6.0\BlazorApp.genruntimeconfig.cache
+D:\GitRepo\VSCode\BlazorApp\bin\Debug\net6.0\Radzen.Blazor.dll
+D:\GitRepo\VSCode\BlazorApp\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\GitRepo\VSCode\BlazorApp\obj\Debug\net6.0\BlazorApp.csproj.CopyComplete
